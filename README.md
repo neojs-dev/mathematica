@@ -1,4 +1,6 @@
-# mathematica
+# Mathematica
+
+[![Build Status](https://travis-ci.org/neojs-dev/mathematica.svg?branch=master)](https://travis-ci.org/neojs-dev/mathematica)
 
 Mathematical operations in JavaScript
 
