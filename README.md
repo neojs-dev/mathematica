@@ -10,12 +10,12 @@ Why not use real mathematical operations in JavaScript? ^\_\_^
 
 ## Install
 
-`npm i @neojsdev/use-reducer-context`
+`npm i @neojsdev/mathematica`
 
 ## Usage
 
 ```javascript
-const math = require('@neojsdev/use-reducer-context')
+const math = require('@neojsdev/mathematica')
 
 const plus = (x, y) => x + y
 
