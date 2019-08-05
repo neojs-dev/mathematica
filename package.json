@@ -1,6 +1,6 @@
 {
   "name": "@neojsdev/mathematica",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mathematical operations",
   "main": "index.js",
   "scripts": {
