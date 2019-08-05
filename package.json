@@ -1,0 +1,31 @@
+{
+  "name": "@neojsdev/mathematica",
+  "version": "1.0.0",
+  "description": "Mathematical operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neojs-dev/mathematica.git"
+  },
+  "keywords": [
+    "math",
+    "mathematica",
+    "mathematical",
+    "operations",
+    "function",
+    "functional",
+    "programming"
+  ],
+  "author": "Denis Kotlica <neosiae@pm.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neojs-dev/mathematica/issues"
+  },
+  "homepage": "https://github.com/neojs-dev/mathematica#readme",
+  "devDependencies": {
+    "tape": "^4.11.0"
+  }
+}
