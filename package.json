@@ -27,5 +27,8 @@
   "homepage": "https://github.com/neojs-dev/mathematica#readme",
   "devDependencies": {
     "tape": "^4.11.0"
+  },
+  "dependencies": {
+    "is-number": "^7.0.0"
   }
 }
