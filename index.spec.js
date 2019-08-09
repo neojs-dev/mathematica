@@ -36,3 +36,20 @@ test('divide', function(t) {
   t.equal(result, 1)
   t.end()
 })
+
+test('type checking', function (t) {
+  function add (x, y) { 
+    return x + y
+  }
+
+  t.throws(function () {
+    math({}, add, 2)
+  }, 'The first operand must be a number.')
+
+  t.throws(function () {
+    math(2, add, {})
+  }, 'The second operand must be a number.')
+
+  t.end()
+})
+
