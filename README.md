@@ -4,10 +4,6 @@
 
 Mathematical operations in JavaScript
 
-## Why?
-
-Why not use real mathematical operations in JavaScript? ^\_\_^
-
 ## Install
 
 `npm i @neojsdev/mathematica`
